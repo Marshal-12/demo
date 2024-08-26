@@ -1,2 +1,4 @@
 # demo
-it my first project repo 
+it my first project repo  
+Author :Sunny Gogawale
+
